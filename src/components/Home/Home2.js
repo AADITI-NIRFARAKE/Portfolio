@@ -16,40 +16,57 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              Hey, savvy people!
+            <br /> <br />Let me <span className="purple">Introduce</span> Myself,
             </h1>
+           
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+            I bring a blend of enthusiasm and expertise to the table, fueled by my love for programming and continuous learning. 
+            <br />
+            I've immersed myself in mastering the fundamentals and beyond, becoming fluent in classics like 
+            <i>
+                <b className="purple"> DSA, Problem Solving, OOPS. </b>
               </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+          
+            I am deeply invested in pioneering new web technologies and products, particularly in the realms of 
+            <i>
+                <b className="purple"> AI and ML. </b>
+              </i> 
+           
+
+            My expertise lies in building 
+            <i>
+                <b className="purple"> LLM-based </b>
+              </i>  
+            retrieval platforms, deploying  <i>
+                <b className="purple"> ML models</b>
+              </i> on 
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  AL ML.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              <b className="purple"> Django services </b>
+              </i> and implementing advanced <i>
+              <b className="purple"> embeddings </b>
+              </i>and
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              <b className="purple"> clustering </b>
+              </i> techniques.
+            
+            I excel in crafting POC's for LLM-based use cases, integrating LLMs like 
+             <i>
+              <b className="purple"> OpenAI ChatGPT and Mistral. </b>
+              </i>  
+            Previous experiences have honed my skills in 
+            <i>
+              <b className="purple"> statistical analysis, data modeling, API development, and UI integration </b>
+              </i>  
+            across a diverse tech stack encompassing 
+            <i>
+              <b className="purple"> Python, PySpark, Django, ReactJS, and Flask. </b>
+              </i> 
+            I am committed to driving innovation and delivering impactful solutions that push technological boundaries.
+           
+            <br /> <br/>
+            
+            Let's collaborate to turn ideas into impactful products that redefine possibilities in the digital realm.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -77,7 +94,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  //href=""
+                  href="https://x.com/TechWhimAaditi"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

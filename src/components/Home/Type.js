@@ -8,8 +8,7 @@ function Type() {
         strings: [
           "Software Developer",
           "AI/ML Enthusiast",
-          "MERN Stack Developer",
-          "Java Developer"
+          "Django Developer",
         ],
         autoStart: true,
         loop: true,
